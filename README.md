@@ -16,12 +16,21 @@ Other Tools: Vite, Axios, React-Toastify
 git clone https://github.com/your-username/google-sheets-clone.git
 
 cd google-sheets-clone
+
 cd backend
+
 npm install
+
 cd ../frontend
+
 npm install
+
 cd ../backend
+
 npm start
+
 cd ../frontend
+
 npm run dev
+
 Open your browser and go to http://localhost:5173 to view the application.
