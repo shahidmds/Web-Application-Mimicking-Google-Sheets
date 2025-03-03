@@ -1,0 +1,14 @@
+.spreadsheet {
+  display: grid;
+  gap: 5px;
+  padding: 10px;
+}
+.row {
+  display: flex;
+}
+.cell {
+  width: 100px;
+  height: 30px;
+  border: 1px solid #ccc;
+  text-align: center;
+}
